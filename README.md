@@ -1,4 +1,3 @@
-Berikut adalah template **README.md** untuk proyek Anda di GitHub:  
 
 ---
 
