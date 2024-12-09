@@ -38,7 +38,7 @@ Berikut adalah koneksi utama:
   - **Positif** → Digital pin 8  
   - **Negatif** → GND  
 
-**Diagram wiring lengkap tersedia di file `diagram.png` dalam repositori ini.**  
+**Diagram wiring lengkap tersedia di file `Picture1.png` dalam repositori ini.**  
 
 ---
 
@@ -82,7 +82,7 @@ Note: C4
 ```  
 
 ### Wiring Rangkaian:  
-![Diagram Wiring](Picture 1.png)  
+![Diagram Wiring](Picture1.png)  
 
 ---
 
