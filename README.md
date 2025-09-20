@@ -2,7 +2,7 @@
 ---
 
 # 🎹 Mini Piano dengan OLED Display  
-Proyek **Mini Piano** adalah sebuah tugas informatika Pak Sion Thutu Satrio Santoso, S.Kom dari **SMA NEGERI 1 PATI**. Rangkaian proyek ini dibuat menggunakan simulator arduino [wokwi.com]. Proyek ini menggunakan **Arduino Uno**, tombol, buzzer, dan layar **OLED 128x64** untuk menciptakan sebuah mini piano sederhana yang dapat menampilkan nada pada layar OLED saat tombol ditekan.
+Proyek **Mini Piano** adalah sebuah tugas informatika bapak Sion Thutu Satrio Santoso, S.Kom dari **SMA NEGERI 1 PATI**. Rangkaian proyek ini dibuat menggunakan simulator arduino [wokwi.com]. Proyek ini menggunakan **Arduino Uno**, tombol, buzzer, dan layar **OLED 128x64** untuk menciptakan sebuah mini piano sederhana yang dapat menampilkan nada pada layar OLED saat tombol ditekan.
 
 ---
 
