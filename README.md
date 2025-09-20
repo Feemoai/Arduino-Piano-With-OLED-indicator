@@ -76,11 +76,6 @@ Mini-Piano/
 ## 🖥 **Demo Proyek**  
 Berikut adalah tampilan proyek saat dijalankan:  
 
-### Nada Tertampil di OLED:  
-```
-Note: C4  
-```  
-
 ### Wiring Rangkaian:  
 ![Diagram Wiring](Picture1.png)  
 
@@ -91,7 +86,7 @@ Note: C4
 - **Dibuat Oleh**: Ahmad Fajril Falah  
 - **Sekolah**: SMA NEGERI 1 PATI  
 - **Mata Pelajaran**: Informatika
-- **Guru Pengampu**: Pak Sion Thutu Satrio Santoso, S.Kom 
+- **Guru Pengampu**: Sion Thutu Satrio Santoso, S.Kom 
 
 Proyek ini bertujuan untuk mempraktikkan penggunaan Arduino dalam aplikasi musik sederhana, dengan integrasi tampilan interaktif menggunakan OLED.
 
